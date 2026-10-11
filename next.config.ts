@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/SkillSight",
+  basePath: "/SkillSightF",
   trailingSlash: true,
   images: {
     unoptimized: true,
