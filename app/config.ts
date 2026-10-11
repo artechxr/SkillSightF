@@ -1,4 +1,3 @@
-```ts
 // app/config.ts
 /**
  * Centralized configuration for the SkillSight frontend.
